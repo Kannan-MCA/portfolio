@@ -17,7 +17,7 @@ ul {
 li {
     display: inline;
     padding: 10px;
-    font-size: 22px;
+    font-size: 18px;
 
 }
 
@@ -37,5 +37,5 @@ li:hover{
 
 .logo {
     width: 200px;
-    font-size: 22px;
+    font-size: 18px;
 }
